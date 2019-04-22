@@ -1,0 +1,240 @@
+{
+    "data": {
+        "id": "c1921fc5-5e80-4a45-adfc-b82a61710e0b",
+        "type": "player",
+        "children": [
+            {
+                "id": "legend_5",
+                "type": "",
+                "metadata": {
+                    "legend_name": "Bloodhound",
+                    "icon": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.png",
+                    "bgimage": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bloodhound-concept-bg-small.jpg"
+                },
+                "stats": [
+                    {
+                        "metadata": {
+                            "key": "Kills",
+                            "name": "Kills",
+                            "categoryKey": "combat",
+                            "categoryName": "Combat",
+                            "isReversed": false
+                        },
+                        "value": 84.0,
+                        "percentile": 34.0,
+                        "displayValue": "84",
+                        "displayRank": ""
+                    },
+                    {
+                        "metadata": {
+                            "key": "SeasonWins",
+                            "name": "Season Wins",
+                            "categoryKey": "game",
+                            "categoryName": "Game",
+                            "isReversed": false
+                        },
+                        "value": 4.0,
+                        "percentile": 3.5,
+                        "displayValue": "4",
+                        "displayRank": ""
+                    },
+                    {
+                        "metadata": {
+                            "key": "SeasonDamage",
+                            "name": "Season Damage",
+                            "categoryKey": "game",
+                            "categoryName": "Game",
+                            "isReversed": false
+                        },
+                        "value": 24479.0,
+                        "percentile": 1.2,
+                        "displayValue": "24,479",
+                        "displayRank": ""
+                    }
+                ]
+            },
+            {
+                "id": "legend_1",
+                "type": "",
+                "metadata": {
+                    "legend_name": "Wraith",
+                    "icon": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wraith.png.adapt.crop16x9.png",
+                    "bgimage": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-concept-bg-small.jpg"
+                },
+                "stats": [
+                    {
+                        "metadata": {
+                            "key": "Kills",
+                            "name": "Kills",
+                            "categoryKey": "combat",
+                            "categoryName": "Combat",
+                            "isReversed": false
+                        },
+                        "value": 4.0,
+                        "percentile": 81.0,
+                        "displayValue": "4",
+                        "displayRank": ""
+                    },
+                    {
+                        "metadata": {
+                            "key": "KillsPerMatch",
+                            "name": "Kills Per Match",
+                            "categoryKey": "combat",
+                            "categoryName": "Combat",
+                            "isReversed": false
+                        },
+                        "value": 0.57,
+                        "percentile": 4.1,
+                        "rank": 12986,
+                        "displayValue": "0.57",
+                        "displayRank": "12,986"
+                    },
+                    {
+                        "metadata": {
+                            "key": "MatchesPlayed",
+                            "name": "Matches Played",
+                            "categoryKey": "game",
+                            "categoryName": "Game",
+                            "isReversed": false
+                        },
+                        "value": 7.0,
+                        "percentile": 100.0,
+                        "rank": 18925,
+                        "displayValue": "7",
+                        "displayRank": "18,925"
+                    }
+                ]
+            },
+            {
+                "id": "legend_8",
+                "type": "",
+                "metadata": {
+                    "legend_name": "Pathfinder",
+                    "icon": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-pathfinder.png.adapt.crop16x9.png",
+                    "bgimage": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-concept-bg-small.jpg"
+                },
+                "stats": [
+                    {
+                        "metadata": {
+                            "key": "Kills",
+                            "name": "Kills",
+                            "categoryKey": "combat",
+                            "categoryName": "Combat",
+                            "isReversed": false
+                        },
+                        "value": 108.0,
+                        "percentile": 22.0,
+                        "displayValue": "108",
+                        "displayRank": ""
+                    },
+                    {
+                        "metadata": {
+                            "key": "SeasonWins",
+                            "name": "Season Wins",
+                            "categoryKey": "game",
+                            "categoryName": "Game",
+                            "isReversed": false
+                        },
+                        "value": 3.0,
+                        "percentile": 13.0,
+                        "rank": 22610,
+                        "displayValue": "3",
+                        "displayRank": "22,610"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "statsCategoryOrder": [
+                "combat",
+                "game",
+                "weapons"
+            ],
+            "platformId": 5,
+            "platformUserHandle": "SaikoCoRe",
+            "accountId": "c1921fc5-5e80-4a45-adfc-b82a61710e0b",
+            "cacheExpireDate": "4/21/2019 10:24:28 PM",
+            "level": 45
+        },
+        "stats": [
+            {
+                "metadata": {
+                    "key": "Level",
+                    "name": "Level",
+                    "categoryKey": "combat",
+                    "categoryName": "Combat",
+                    "isReversed": false
+                },
+                "value": 45.0,
+                "percentile": 42.0,
+                "displayValue": "45",
+                "displayRank": ""
+            },
+            {
+                "metadata": {
+                    "key": "Kills",
+                    "name": "Kills",
+                    "categoryKey": "combat",
+                    "categoryName": "Combat",
+                    "isReversed": false
+                },
+                "value": 196.0,
+                "percentile": 34.0,
+                "displayValue": "196",
+                "displayRank": ""
+            },
+            {
+                "metadata": {
+                    "key": "KillsPerMatch",
+                    "name": "Kills Per Match",
+                    "categoryKey": "combat",
+                    "categoryName": "Combat",
+                    "isReversed": false
+                },
+                "value": 28.0,
+                "percentile": 0.7,
+                "displayValue": "28.00",
+                "displayRank": ""
+            },
+            {
+                "metadata": {
+                    "key": "MatchesPlayed",
+                    "name": "Matches Played",
+                    "categoryKey": "game",
+                    "categoryName": "Game",
+                    "isReversed": false
+                },
+                "value": 7.0,
+                "percentile": 100.0,
+                "displayValue": "7",
+                "displayRank": ""
+            },
+            {
+                "metadata": {
+                    "key": "SeasonWins",
+                    "name": "Season Wins",
+                    "categoryKey": "game",
+                    "categoryName": "Game",
+                    "isReversed": false
+                },
+                "value": 7.0,
+                "percentile": 8.0,
+                "displayValue": "7",
+                "displayRank": ""
+            },
+            {
+                "metadata": {
+                    "key": "SeasonDamage",
+                    "name": "Season Damage",
+                    "categoryKey": "game",
+                    "categoryName": "Game",
+                    "isReversed": false
+                },
+                "value": 24479.0,
+                "percentile": 3.0,
+                "displayValue": "24,479",
+                "displayRank": ""
+            }
+        ]
+    }
+}
